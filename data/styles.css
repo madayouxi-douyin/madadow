@@ -69,4 +69,49 @@
 }
 .form_disabled {
 }
+._流程形状 {
+}
+._线 {
+}
+._连接线 {
+}
+.icon {
+}
+.paragraph {
+  text-align:left;
+}
+.heading_2 {
+  font-family:'Arial Normal', 'Arial', sans-serif;
+  font-weight:bold;
+  font-style:normal;
+  font-size:24px;
+  text-align:left;
+}
+.heading_3 {
+  font-family:'Arial Normal', 'Arial', sans-serif;
+  font-weight:bold;
+  font-style:normal;
+  font-size:18px;
+  text-align:left;
+}
+.box_3 {
+  font-size:18px;
+  color:#FFFFFF;
+}
+.box_2 {
+}
+.shape {
+}
+.ellipse {
+}
+.placeholder {
+}
+.image {
+}
+.button {
+}
+.line1 {
+}
+.flow_shape {
+}
 textarea, select, input, button { outline: none; }
