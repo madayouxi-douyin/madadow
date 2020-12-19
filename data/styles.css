@@ -18,6 +18,24 @@
 .link_button {
   color:#169BD5;
 }
+.text_field {
+  color:#000000;
+  text-align:left;
+}
+.flow_shape {
+}
+.box_1 {
+}
+.checkbox {
+  text-align:left;
+}
+.radio_button {
+  text-align:left;
+}
+.label {
+  font-size:14px;
+  text-align:left;
+}
 ._一级标题 {
   font-family:'Arial Normal', 'Arial', sans-serif;
   font-weight:bold;
@@ -64,6 +82,13 @@
 }
 .line {
 }
+.droplist {
+  color:#000000;
+  text-align:left;
+}
+.tree_node {
+  text-align:left;
+}
 .form_hint {
   color:#999999;
 }
@@ -75,9 +100,18 @@
 }
 ._连接线 {
 }
+.snapshot {
+}
 .icon {
 }
 .paragraph {
+  text-align:left;
+}
+.heading_1 {
+  font-family:'Arial Normal', 'Arial', sans-serif;
+  font-weight:bold;
+  font-style:normal;
+  font-size:32px;
   text-align:left;
 }
 .heading_2 {
@@ -112,6 +146,6 @@
 }
 .line1 {
 }
-.flow_shape {
+.flow_shape1 {
 }
 textarea, select, input, button { outline: none; }
